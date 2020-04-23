@@ -1,0 +1,16 @@
+body {
+	font-family: sans-serif;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+h1 {
+    position: relative;
+}
+
+p {
+    position: relative;
+}
